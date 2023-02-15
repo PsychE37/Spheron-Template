@@ -1,6 +1,5 @@
 import Socials from "@/components/Shared/Socials";
 import NextImage from "next/image";
-import AvatarJPG from "public/static/images/avatar.jpg";
 
 const Hero = (): JSX.Element => {
   return (
