@@ -23,7 +23,7 @@ const Hero = (): JSX.Element => {
       </div>
       <div className="will-change-opacity relative h-32 w-32 overflow-hidden rounded-full will-change-transform">
         <NextImage
-          src={AvatarJPG}
+          src="https://www.macmillandictionary.com/external/slideshow/full/emoji_snake_full.jpg"
           layout="fill"
           placeholder="blur"
           alt="Anish De"
